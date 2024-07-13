@@ -1,0 +1,6 @@
+@WebAPI_BogusPackage_HostAddress = http://localhost:5022
+
+GET {{WebAPI_BogusPackage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
